@@ -4,8 +4,9 @@
 ---
 
 ### 🔭 I’m currently working on
-- [Jarvis-Like Personal AI Assistant](https://github.com/TusharChaugule/jarvis-ai)
-- [Secure Cab Service Platform](https://github.com/TusharChaugule/secure-cab-platform)
+- [Jarvis-Like Personal AI Assistant] - available soon 
+- [Secure Cab Service Platform] - available soon
+- 
 
 ### 👯 I’m looking to collaborate on
 - Open-source cybersecurity or AI tools
@@ -20,22 +21,19 @@
 - **Linux Administration**
 - **Cybersecurity Tools (CEH Track)**
 - **AI/ML with Python**
-- **Robotics frameworks (ROS, Arduino)**
 
 ### 💬 Ask me about
-- Cybersecurity, Python automation, and productivity tools
+- Cybersecurity, Python automation .
 - MERN Stack basics, GitHub project structure
 
 ### 📫 How to reach me
-- Email: tusharchaugule123@gmail.com
+- Email: chauguletushar7@gmail.com
 - LinkedIn: [linkedin.com/in/tushar-chaugule](https://linkedin.com/in/tushar-chaugule)
 
 ### 👨‍💻 All of my projects are available at
-- GitHub: [github.com/TusharChaugule](https://github.com/TusharChaugule)
+- GitHub: [github.com/TusharChaugule](https://github.com/Tushar8767)
 - (Soon) Portfolio: *Coming Soon*
 
-### 📝 I regularly write articles on
-- *Coming soon on Hashnode/Medium*
 
 ### 📄 Know about my experiences
 - [Resume](https://drive.google.com/your-resume-link)
@@ -63,9 +61,9 @@ I code like a robot but debug like a detective. 🕵️‍♂️💻
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharChaugule&show_icons=true&locale=en" alt="Tushar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tushar8767&show_icons=true&locale=en" alt="Tushar's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharChaugule&" alt="Tushar's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar8767&" alt="Tushar's GitHub Streak" />
 </p>
 
 ---
@@ -73,7 +71,7 @@ I code like a robot but debug like a detective. 🕵️‍♂️💻
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TusharChaugule&theme=algolia&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Tushar8767&theme=algolia&row=1&column=6"/>
 </p>
 
 ---
@@ -81,7 +79,7 @@ I code like a robot but debug like a detective. 🕵️‍♂️💻
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TusharChaugule&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tushar8767&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
