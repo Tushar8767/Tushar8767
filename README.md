@@ -36,7 +36,7 @@
 
 
 ### 📄 Know about my experiences
-- [Resume]([https://drive.google.com/your-resume-link](https://drive.google.com/file/d/1q3HhGa-YMf2SkkrrVMhVEaF1Q3K5SMdl/view?usp=drive_link))
+- [Resume](https://drive.google.com/file/d/1q3HhGa-YMf2SkkrrVMhVEaF1Q3K5SMdl/view?usp=drive_link))
 
 ### ⚡ Fun fact
 I code like a robot but debug like a detective. 🕵️‍♂️💻
