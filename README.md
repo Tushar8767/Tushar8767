@@ -1,21 +1,45 @@
-Hi, I’m Tushar Chaugule — a Computer Engineering student focused on cybersecurity and secure system development.
+## 👋 Hi, I’m Tushar Chaugule
 
-I work on security-oriented projects involving ethical hacking concepts, authentication mechanisms, access control, and Python-based automation. I’m particularly interested in understanding how systems break and how to defend them effectively.
+I’m a Computer Engineering undergraduate who builds academic and self-initiated software projects focused on backend logic, system design, automation, and full-stack development.
 
-🔧 Current Focus:
-- Cybersecurity fundamentals & ethical hacking (CEH track)
-- Linux administration & networking basics
-- Python automation for security tasks
-- Core CS subjects: OS, DBMS, Computer Networks
+I enjoy working on projects that solve real-world problems using structured code, clear workflows, and reliable data handling. My experience spans console-based systems, desktop GUI applications, and full-stack web applications.
 
-📌 Projects:
-- Security-focused academic and self-initiated projects (authentication, logging, automation)
-- AI-assisted systems with emphasis on access control and secure design
+### 🔧 What I Work With
 
-🤝 Open to:
-- Cybersecurity-related open-source contributions
-- Security-focused internships and project collaborations
+* **Languages:** C++, Python, JavaScript, SQL
+* **Backend & Web:** Node.js, Express.js, React.js, MongoDB
+* **Desktop & Systems:** Python (Tkinter), SQLite, CSV-based data storage
+* **Tools:** Git, GitHub, VS Code, Linux (basic)
 
-📫 Reach me:
-Email: chauguletushar7@gmail.com  
-LinkedIn: linkedin.com/in/tushar-chaugule
+### 📌 Highlighted Projects
+
+* **Attendance Management System**
+  A C++ and Python-based system with GUI support, multi-lecture attendance tracking, CSV persistence, and automated parent notifications.
+
+* **KS Sentinel OS**
+  A MERN-stack web-based workstation featuring modular UI, draggable windows, backend APIs, and persistent user configurations.
+
+* **AI Workspace**
+  A full-stack application integrating AI-powered features such as chat, summarization, and content generation with secure authentication and history tracking.
+
+* **Hospital Management System**
+  A role-based desktop application built with Python, Tkinter, and SQLite to manage patients, doctors, appointments, and administrative workflows.
+
+* **Jarvis AI Assistant**
+  A Python-based voice-controlled assistant supporting wake-word detection, desktop automation, calculations, and application control.
+
+### 🚀 Current Focus
+
+* Strengthening backend development and full-stack fundamentals
+* Improving problem-solving through structured project work
+* Learning core computer science concepts through practical implementation
+
+### 🤝 Open To
+
+* Software development internships
+* Collaborative academic or open-source projects
+* Opportunities that involve building and improving real-world systems
+
+📫 **Contact:**
+Email: [chauguletushar2021@gmail.com](mailto:chauguletushar2021@gmail.com)
+GitHub: [https://github.com/Tushar8767](https://github.com/Tushar8767)
