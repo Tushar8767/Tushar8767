@@ -140,6 +140,6 @@ I'm actively building practical experience in **Cybersecurity**, focusing on **W
 
 📧 **Email:** [mailto:chauguletushar2021@gmail.com](mailto:chauguletushar2021@gmail.com)
 
-💼 **LinkedIn:** *(Add your LinkedIn profile URL here)*
+💼 **LinkedIn:** *https://www.linkedin.com/in/tushar-chaugule-62b0652b1*
 
 💻 **GitHub:** https://github.com/Tushar8767
