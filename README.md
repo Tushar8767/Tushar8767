@@ -138,8 +138,9 @@ I'm actively building practical experience in **Cybersecurity**, focusing on **W
 
 ## 📫 Connect With Me
 
-📧 **Email:** [mailto:chauguletushar2021@gmail.com](mailto:chauguletushar2021@gmail.com)
+📧 **Professional Email:** [chauguletushar2021@gmail.com](mailto:chauguletushar2021@gmail.com)
 
-💼 **LinkedIn:** *https://www.linkedin.com/in/tushar-chaugule-62b0652b1*
+💼 **LinkedIn:** [linkedin.com/in/tushar-chaugule-62b0652b1](https://www.linkedin.com/in/tushar-chaugule-62b0652b1)
 
-💻 **GitHub:** https://github.com/Tushar8767
+💻 **GitHub:** [github.com/Tushar8767](https://github.com/Tushar8767)
+
