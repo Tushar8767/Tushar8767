@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tushar Chaugule
+
 
 <p align="center">
   <img src="./assets/cyber-banner.png" width="100%" alt="Cyber Banner">
