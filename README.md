@@ -66,36 +66,6 @@ I'm passionate about combining cybersecurity with software engineering. My work 
 ---
 
 # 🚀 Featured Projects
-
-## 🛡 KS Sentinel – Security Monitoring Platform
-
-```yaml
-Status: Active
-Stack:
-  - React
-  - Node.js
-  - Express
-  - MongoDB
-  - Vite
-```
-
-A MERN-based modular platform demonstrating secure workflows, monitoring concepts and scalable backend architecture.
-
-**Features**
-
-- Desktop-style interface
-- REST APIs
-- MongoDB persistence
-- Modular architecture
-- Security-focused workflow
-
-<p>
-<a href="YOUR_DEPLOYED_LINK"><img src="https://img.shields.io/badge/🌐_Live_Demo-39FF14?style=for-the-badge"></a>
-<a href="YOUR_GITHUB_REPOSITORY"><img src="https://img.shields.io/badge/📂_Source_Code-0A66C2?style=for-the-badge"></a>
-</p>
-
----
-
 ## 🔒 Web Application Vulnerability Assessment
 
 Professional assessment of an intentionally vulnerable application.
@@ -109,11 +79,49 @@ Professional assessment of an intentionally vulnerable application.
 - Secure coding recommendations
 
 <p>
-<a href="https://github.com/Tushar8767/WEB-APP-SECURITY---Vulnerability-Assessment-Reporting"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"></a>
+<a href="[https://github.com/Tushar8767/WEB-APP-SECURITY---Vulnerability-Assessment-Reporting](https://github.com/Tushar8767/WEB-APP-SECURITY---Vulnerability-Assessment-Reporting)"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
+## 🛡 KS Sentinel
 
+```yaml
+Status: Active Development
+Category: Full-Stack Web Application
+Stack:
+  - React.js
+  - Node.js
+  - Express.js
+  - MongoDB
+  - Vite
+```
+
+KS Sentinel is a modular MERN-stack web application featuring a desktop-style interface with reusable components and a scalable backend architecture. The project is designed as a flexible workspace that will support additional modules and workflows as development progresses.
+
+### Features
+
+- Desktop-style user interface
+- Draggable and modular windows
+- RESTful backend APIs
+- MongoDB-backed data storage
+- Responsive frontend built with React and Vite
+- Modular architecture for future expansion
+- Git-based version control and documentation
+
+<p align="left">
+
+<a href="[KS_SENTINEL_DEPLOYED_LINK](https://ks-sentinel-os.onrender.com/)">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-39FF14?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+&nbsp;
+
+<a href="[KS_SENTINEL_GITHUB_REPOSITORY](https://github.com/Tushar8767/KS_Sentinel)">
+<img src="https://img.shields.io/badge/📂%20Source%20Code-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+---
 ## 🌐 Enterprise Web Application Security Assessment
 
 Performed reconnaissance and assessment in a CEH Cyber Range.
@@ -125,7 +133,9 @@ Performed reconnaissance and assessment in a CEH Cyber Range.
 - Gobuster enumeration
 - HTTP analysis
 - Security documentation
-
+<p>
+<a href="[WEB-APP-SECURITY---Vulnerability-Assessment-Reporting](https://github.com/Tushar8767/WEB-APP-SECURITY---Vulnerability-Assessment-Reporting))"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"></a>
+</p>
 ---
 
 ## 🤖 AI Workspace
@@ -139,7 +149,7 @@ Full-stack AI application.
 - MongoDB
 
 <p>
-<a href="YOUR_AI_REPOSITORY"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"></a>
+<a href="[AI_REPOSITORY](https://github.com/Tushar8767/AI_Assistant)"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
