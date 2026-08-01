@@ -70,90 +70,109 @@ I'm passionate about combining cybersecurity with software engineering. My work 
 ---
 
 # 🚀 Featured Projects
-## 🔒 Web Application Vulnerability Assessment
-
-Professional assessment of an intentionally vulnerable application.
-
-**Highlights**
-
-- SQL Injection validation
-- Burp Suite Proxy & Repeater
-- CIA impact analysis
-- Professional security report
-- Secure coding recommendations
-
-<p>
-<a href="[https://github.com/Tushar8767/WEB-APP-SECURITY---Vulnerability-Assessment-Reporting](https://github.com/Tushar8767/WEB-APP-SECURITY---Vulnerability-Assessment-Reporting)"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"></a>
-</p>
 
 ---
-## 🛡 KS Sentinel
 
-```yaml
-Status: Active Development
-Category: Full-Stack Web Application
-Stack:
-  - React.js
-  - Node.js
-  - Express.js
-  - MongoDB
-  - Vite
-```
+## 🔒 Web Application Vulnerability Assessment
 
-KS Sentinel is a modular MERN-stack web application featuring a desktop-style interface with reusable components and a scalable backend architecture. The project is designed as a flexible workspace that will support additional modules and workflows as development progresses.
+**PortSwigger Web Security Academy • SQL Injection • OWASP Top 10**
 
-### Features
+Performed a manual vulnerability assessment of an intentionally vulnerable web application within the PortSwigger Web Security Academy laboratory environment.
 
-- Desktop-style user interface
-- Draggable and modular windows
-- RESTful backend APIs
-- MongoDB-backed data storage
-- Responsive frontend built with React and Vite
-- Modular architecture for future expansion
-- Git-based version control and documentation
+### Key Highlights
+
+- Validated an SQL Injection authentication bypass vulnerability through manual testing.
+- Analyzed vulnerability severity using CVSS v3.1, CWE-89, and OWASP Top 10.
+- Evaluated technical and business impact using the CIA security model.
+- Prepared a professional vulnerability assessment report with proof-of-concept and remediation recommendations.
 
 <p align="left">
 
-<a href="[KS_SENTINEL_DEPLOYED_LINK](https://ks-sentinel-os.onrender.com/)">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-39FF14?style=for-the-badge&logo=vercel&logoColor=black"/>
+<a href="https://github.com/Tushar8767/WEB-APP-SECURITY---Vulnerability-Assessment-Reporting">
+<img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🛡️ KS Sentinel
+
+**Modular MERN Platform • React.js • Node.js • Express.js • MongoDB • Vite**
+
+KS Sentinel is a modular full-stack web application featuring a desktop-style interface, reusable UI components, and scalable backend architecture.
+
+### Key Highlights
+
+- Desktop-style modular workspace
+- React.js + Vite frontend
+- RESTful APIs with Express.js
+- MongoDB-backed persistent storage
+- Scalable MERN architecture
+- Modular project structure
+
+<p align="left">
+
+<a href="https://ks-sentinel-os.onrender.com/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-39FF14?style=for-the-badge&logo=render&logoColor=black"/>
 </a>
 
 &nbsp;
 
-<a href="[KS_SENTINEL_GITHUB_REPOSITORY](https://github.com/Tushar8767/KS_Sentinel)">
+<a href="https://github.com/Tushar8767/KS_Sentinel">
 <img src="https://img.shields.io/badge/📂%20Source%20Code-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
+
 ---
-## 🌐 Enterprise Web Application Security Assessment
 
-Performed reconnaissance and assessment in a CEH Cyber Range.
+## 🌐 Enterprise Data Center Web Application Assessment
 
-**Highlights**
+**Burp Suite • Gobuster • API Security • Browser Developer Tools**
 
-- Source code inspection
-- Hidden login discovery
-- Gobuster enumeration
-- HTTP analysis
-- Security documentation
-<p>
-<a href="[WEB-APP-SECURITY---Vulnerability-Assessment-Reporting](https://github.com/Tushar8767/WEB-APP-SECURITY---Vulnerability-Assessment-Reporting))"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"></a>
+Performed a security assessment of an enterprise web application within a controlled Cyber Range environment.
+
+### Key Highlights
+
+- Identified exposed configuration files and sensitive application resources.
+- Performed directory enumeration using Gobuster.
+- Inspected application source code and hidden endpoints.
+- Analyzed authenticated API requests using Burp Suite.
+- Documented findings, risk assessment, proof-of-concept, and remediation recommendations in a professional technical report.
+
+<p align="left">
+
+<a href="https://github.com/Tushar8767/YOUR_REPOSITORY_NAME">
+<img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
+
 ---
 
 ## 🤖 AI Workspace
 
-Full-stack AI application.
+**React.js • Node.js • Express.js • MongoDB**
 
-- JWT Authentication
-- Protected Routes
-- AI Chat
-- REST APIs
-- MongoDB
+A full-stack AI-powered workspace integrating authentication, AI-assisted features, and RESTful backend services.
 
-<p>
-<a href="[AI_REPOSITORY](https://github.com/Tushar8767/AI_Assistant)"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"></a>
+### Key Highlights
+
+- AI chatbot interface
+- Text summarization
+- JWT authentication
+- Protected routes
+- RESTful APIs
+- MongoDB-backed user management
+- Modular full-stack architecture
+
+<p align="left">
+
+<a href="https://github.com/Tushar8767/AI_Assistant">
+<img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
