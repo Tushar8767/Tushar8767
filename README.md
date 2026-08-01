@@ -9,16 +9,16 @@
 </p>
 <p align="center">
 
-<!-- <a href="mailto:chauguletushar2021@gmail.com"> -->
+<a href="mailto:chauguletushar2021@gmail.com">
 <img src="https://img.shields.io/badge/$%20mail-chauguletushar2021@gmail.com-39FF14?style=for-the-badge&logo=gmail&logoColor=black"/>
-<!-- </a> -->
+</a>
 
-<!-- <a href="https://www.linkedin.com/in/tushar-chaugule-62b0652b1"> -->
-<!-- <img src="https://img.shields.io/badge/$%20linkedin-Tushar%20Chaugule-0A66C2?style=for-the-badge&logo=linkedin"/> -->
+<a href="https://www.linkedin.com/in/tushar-chaugule-62b0652b1">
+<img src="https://img.shields.io/badge/$%20linkedin-Tushar%20Chaugule-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/Tushar8767">
-<!-- <img src="https://img.shields.io/badge/$%20github-Tushar8767-181717?style=for-the-badge&logo=github"/> -->
+<img src="https://img.shields.io/badge/$%20github-Tushar8767-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
