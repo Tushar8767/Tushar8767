@@ -7,13 +7,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Cybersecurity+%7C+Secure+Software+Development;Web+Security+%7C+VAPT+%7C+Blue+Team;MERN+Stack+Developer;Build.+Analyze.+Secure." />
 </p>
-
 <p align="center">
-  <a href="mailto:chauguletushar2021@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-39FF14?style=for-the-badge&logo=gmail&logoColor=black"></a>
-  <a href="https://www.linkedin.com/in/tushar-chaugule-62b0652b1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/Tushar8767"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"></a>
+  <a href="mailto:chauguletushar2021@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20chauguletushar2021@gmail.com-Contact-39FF14?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/tushar-chaugule-62b0652b1">
+    <img src="https://img.shields.io/badge/LinkedIn-Tushar%20Chaugule-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Tushar8767">
+    <img src="https://img.shields.io/badge/GitHub-Tushar8767-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
 ---
 
 ## $ whoami
