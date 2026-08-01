@@ -9,11 +9,11 @@
 </p>
 <p align="center">
 
-<a href="mailto:chauguletushar2021@gmail.com">
-<!-- <img src="https://img.shields.io/badge/$%20mail-chauguletushar2021@gmail.com-39FF14?style=for-the-badge&logo=gmail&logoColor=black"/> -->
-</a>
+<!-- <a href="mailto:chauguletushar2021@gmail.com"> -->
+<img src="https://img.shields.io/badge/$%20mail-chauguletushar2021@gmail.com-39FF14?style=for-the-badge&logo=gmail&logoColor=black"/>
+<!-- </a> -->
 
-<a href="https://www.linkedin.com/in/tushar-chaugule-62b0652b1">
+<!-- <a href="https://www.linkedin.com/in/tushar-chaugule-62b0652b1"> -->
 <!-- <img src="https://img.shields.io/badge/$%20linkedin-Tushar%20Chaugule-0A66C2?style=for-the-badge&logo=linkedin"/> -->
 </a>
 
