@@ -3,10 +3,6 @@
 <p align="center">
   <img src="./assets/cyber-banner.png" width="100%" alt="Cyber Banner">
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Cybersecurity+%7C+Secure+Software+Development;Web+Security+%7C+VAPT+%7C+Blue+Team;MERN+Stack+Developer;Build.+Analyze.+Secure." />
-</p>
 <p align="center">
 
 <a href="mailto:chauguletushar2021@gmail.com">
